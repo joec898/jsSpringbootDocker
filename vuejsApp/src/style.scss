@@ -1,0 +1,27 @@
+.v-main{
+    background-color: #F5F5F5;
+}
+
+.table{
+    .project._teal{
+        border-left: 4px solid #3cd1c2;
+    }
+    .project._orange{
+        border-left: 4px solid orange;
+    }
+    .project._tomato{
+        border-left: 4px solid tomato;
+    }
+}
+
+.row.deletrow{
+    display: inline !important;
+}
+
+.row.addrow{
+    display: inline !important;
+}
+
+.mybtns{
+    display: inline !important;
+}
